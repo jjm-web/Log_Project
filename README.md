@@ -41,7 +41,7 @@
 
 
 <p align="center" />
-    <img src="https://github.com/jjm-web/intellian_Project/assets/76840242/108e4f3f-be90-4d9f-b94c-57f5d40a188e"/>
+    <img src="https://github.com/jjm-web/Log_Project/assets/76840242/24864b3c-7bd5-4d7f-93bd-6d499e753b32"/>
 </p> 
 
 

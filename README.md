@@ -33,7 +33,7 @@
 
 
 <p align="center" />
-    <img src="https://github.com/jjm-web/intellian_Project/assets/76840242/86c1d64c-de61-4fba-8bb0-354f03fa6db9"/>
+    <img src="https://github.com/jjm-web/Log_Project/assets/76840242/4ec52ec1-ff84-4eb6-93f2-a2f58b5de0ac"/>
     
 </p> 
 
